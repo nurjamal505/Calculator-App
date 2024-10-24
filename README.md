@@ -58,10 +58,9 @@
 
 
 ### Example of Division by Zero Error:
-![Снимок экрана 2024-10-24 131000](https://git![Снимок экрана 2024-10-24 131010](https://github.com/user-attachments/assets/91b72266-9887-4daa-ad8d-f0b29ff18edb)
-hub.com/user-attachments/assets/5ffc9f90-850b-4b71-bea1-ec3b9298f574)
-![Снимок экрана 2024-10-24 131015](https://github.com/user-attachments/assets/e618d237-c6f8-4997-91b0-d578014a01de)
-
+![Снимок экрана 2024-10-24 131000](https://github.com/user-attachments/assets/4aa8c4f6-7674-44ed-a582-5864de9e1ce2)
+![Снимок экрана 2024-10-24 131010](https://github.com/user-attachments/assets/d399d436-bbb3-4021-b117-1a4fb846859a)
+![Снимок экрана 2024-10-24 131015](https://github.com/user-attachments/assets/1e5e6567-4e03-4360-bea0-fe46d9a680f8)
 
 ---
 
